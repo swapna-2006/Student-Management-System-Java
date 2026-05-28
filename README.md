@@ -19,6 +19,7 @@ A simple console-based Student Management System developed using Java and ArrayL
 - Search Student
 - Delete Student
 - Update Marks
+- Exit Program
 
 ## Technologies Used
 - Java
