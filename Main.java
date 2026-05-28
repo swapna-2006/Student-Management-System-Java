@@ -17,6 +17,12 @@ public class Main {
 
         ArrayList<Student> students = new ArrayList<>();
 
+        System.out.println("Welcome To My Project 😊");
+        
+        System.out.println("==========================");
+        System.out.println(" STUDENT MANAGEMENT SYSTEM ");
+        System.out.println("==========================");
+
         while (true) {
 
             System.out.println("\n===== Student Management System =====");
@@ -151,8 +157,9 @@ public class Main {
 
                 case 6:
 
-                    System.out.println("Thank You!");
+                    System.out.println("Thank You For Using Student Management System 😊");
                     System.exit(0);
+                    break;
 
                 default:
 
